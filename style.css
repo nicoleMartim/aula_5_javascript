@@ -1,0 +1,25 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: f5f5f5;
+}
+
+form{
+    max-width: 500px;
+    margin: 20px auto;
+
+}
+
+label, input, select, textarea, button{
+    display: block;
+    padding: 5px;
+    font-size: 14px;
+    margin-top: 15px
+}
+
+#mensagem{
+    color: red;
+}
+
+.sucesso{
+    color: green;
+}
